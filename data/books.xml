@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<books>
+    <book>
+        <id>1</id>
+        <title>Untamed</title>
+        <author>Glennon Doyle</author>
+        <publisher>Universal</publisher>
+        <publicationYear>2020</publicationYear>
+        <price>50.0</price>
+    </book>
+    <book>
+        <id>2</id>
+        <title>The Mirror</title>
+        <author>Hilary Mantel</author>
+        <publisher>Corint</publisher>
+        <publicationYear>2015</publicationYear>
+        <price>30.0</price>
+    </book>
+    <book>
+        <id>3</id>
+        <title>The Silent Patient</title>
+        <author>Alex Michaelides</author>
+        <publisher>Springbed</publisher>
+        <publicationYear>1995</publicationYear>
+        <price>70.0</price>
+    </book>
+    <book>
+        <id>4</id>
+        <title>Dupa Brazi</title>
+        <author>Cristi Pop</author>
+        <publisher>Universal</publisher>
+        <publicationYear>2020</publicationYear>
+        <price>50.0</price>
+    </book>
+</books>

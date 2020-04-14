@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<purchases>
+    <purchase>
+        <id>102</id>
+        <clientId>3</clientId>
+        <bookId>3</bookId>
+        <library>Book Art</library>
+    </purchase>
+    <purchase>
+        <id>104</id>
+        <clientId>3</clientId>
+        <bookId>2</bookId>
+        <library>ooo</library>
+    </purchase>
+    <purchase>
+        <id>105</id>
+        <clientId>4</clientId>
+        <bookId>4</bookId>
+        <library>f</library>
+    </purchase>
+    <purchase>
+        <id>106</id>
+        <clientId>4</clientId>
+        <bookId>1</bookId>
+        <library>f</library>
+    </purchase>
+</purchases>

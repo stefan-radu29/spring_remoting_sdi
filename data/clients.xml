@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<clients>
+    <client>
+        <id>2</id>
+        <firstName>bob</firstName>
+        <lastName>bob</lastName>
+        <address>bob@BOB.com</address>
+    </client>
+    <client>
+        <id>3</id>
+        <firstName>donald</firstName>
+        <lastName>duck</lastName>
+        <address>ducc@yahoo.com</address>
+    </client>
+    <client>
+        <id>4</id>
+        <firstName>grigore</firstName>
+        <lastName>alexandrescu</lastName>
+        <address>grigore420@yahoo.com</address>
+    </client>
+</clients>
